@@ -41,7 +41,7 @@ Un notebook dédié aux calculs mathématiques fondamentaux :
 - Comparaison des approches pour améliorer la précision.
 
 ## Auteur
-- **Nguyen Sarah**  
+- **Sarah Nguyen**  
 
 ## Installation et Utilisation
 **Installer Jupyter Notebook** si ce n’est pas encore fait :
